@@ -22,5 +22,12 @@ public enum Operators {
     // <=
     left_arrow,
 
+    // '
+    prime,
+
+    // ≃
+    equivlent_to,
+
+
 
 }
